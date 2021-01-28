@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.RiderIssue.Highlighting.iml
+# Datasource local storage ignored files
+/../../../../../../../:\Projects\CSharpProjects\RiderIssue.Highlighting\.idea\.idea.RiderIssue.Highlighting\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

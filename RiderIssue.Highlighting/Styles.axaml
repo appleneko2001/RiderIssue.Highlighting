@@ -1,0 +1,30 @@
+﻿<Styles xmlns="https://github.com/avaloniaui">
+    <Style Selector="Button.Custom1">
+        <Setter Property="Content">
+            <Template>
+                <Panel>
+                    <Panel.Styles>
+                        <Style Selector="TextBlock#InnerText1">
+                            <Setter Property="FontSize" Value="20"/>
+                        </Style>
+                    </Panel.Styles>
+                    <TextBlock Name="InnerText1" Text="Custom1Button"/>
+                </Panel>
+            </Template>
+        </Setter>
+    </Style>
+    <Style Selector="Button.Custom2">
+        <Setter Property="Content">
+            <Template>
+                <Panel>
+                    <Panel.Styles>
+                        <Style Selector="TextBlock#InnerText1">
+                            <Setter Property="Text" Value="Another button"/>
+                        </Style>
+                    </Panel.Styles>
+                    <TextBlock Name="InnerText1" Text="Custom2Button"/>
+                </Panel>
+            </Template>
+        </Setter>
+    </Style>
+</Styles>
